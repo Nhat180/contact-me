@@ -54,7 +54,8 @@ nav ul li a:hover {
   float: left;
   width: 50%;
   padding: 10px;
-  background: coral;
+  /* background: coral; */
+  background: #607d8b;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
